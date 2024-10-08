@@ -1,0 +1,87 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.eggs/
+*.egg-info/
+dist/
+build/
+develop/
+venv/
+bin/
+lib/
+include/
+
+# Local configuration files
+*.ini
+*.cfg
+*.json
+*.yaml
+*.toml
+
+# Logs
+*.log
+*.err
+
+# Test files
+*.pyc
+*.pytest_cache/
+.coverage/
+tests/
+test/
+*.egg
+*.eggs
+*.egg-info
+*.egg-info/
+.swp
+.DS_Store
+.git
+.hg
+.svn
+.tox
+.coverage
+.coverage.xml
+.coverage.json
+.coverage.html
+.coverage.txt
+
+# Script files
+*.py
+*.pyw
+
+# Configuration files
+*.conf
+*.ini
+
+# Data files
+*.csv
+*.json
+*.xml
+
+# Compiled files
+*.pyc
+*.pyo
+
+# Temporary files
+*.tmp
+*.bak
+
+# Other files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Documentation files
+*.rst
+*.md
+
+# Ignore files that are in the .idea/ directory
+.idea/
+
+RC
